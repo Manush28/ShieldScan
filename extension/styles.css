@@ -1,0 +1,56 @@
+body {
+    font-family: Arial;
+    width: 320px;
+    padding: 12px;
+    background: #111;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: cyan;
+}
+
+#status {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#url {
+    font-size: 11px;
+    color: gray;
+    word-break: break-all;
+}
+
+.bar {
+    width: 100%;
+    height: 12px;
+    background: #333;
+    border-radius: 6px;
+    margin: 10px 0;
+}
+
+#riskBar {
+    height: 12px;
+    width: 0%;
+    border-radius: 6px;
+    transition: width 0.5s ease;
+}
+
+#score {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+#reasons {
+    margin-top: 10px;
+    font-size: 13px;
+    white-space: pre-line;
+}
+
+#explanation {
+    margin-top: 10px;
+    font-size: 13px;
+    color: #ccc;
+}
