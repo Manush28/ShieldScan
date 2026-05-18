@@ -55,3 +55,22 @@ python -m venv venv
 venv\\Scripts\\Activate.ps1
 pip install -r requirements.txt
 uvicorn main:app --reload
+---
+
+# 📸 Screenshots
+
+## ✅ SAFE Detection
+
+![SAFE Detection](screenshots/safe_detection.png)
+
+---
+
+## 🚨 Malicious Detection
+
+![Malicious Detection](screenshots/malicious_detection.png)
+
+---
+
+## 🛡 Block Page
+
+![Block Page](screenshots/block_page.png)
