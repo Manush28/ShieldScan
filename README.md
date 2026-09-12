@@ -7,7 +7,7 @@ It combines:
 - Typo-domain detection
 - Content analysis
 - Domain intelligence
-- Real-time Chrome extension scanning
+- Real-time Chrome extension scanning.
 
 ---
 
